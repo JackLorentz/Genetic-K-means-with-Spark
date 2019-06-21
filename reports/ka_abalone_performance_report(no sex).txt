@@ -1,0 +1,9 @@
+Final SSE: 30.95857462848963
+Spend Time: 20772.117226399674
+[External Index]
+Adjusted Rand Index: 0.04017864271257945
+Jaccard Index: 0.03543212832176203
+Fowlkes Mallows Index: 0.10703075897148287
+[External Index]
+Silhouette Index: 0.24112095486511365
+Davies Bouldin Index:1.1677693174619126
